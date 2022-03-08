@@ -1,5 +1,6 @@
 ![](https://box.kancloud.cn/5a0aaa69a5ff42657b5c4715f3d49221) 
 
+基于ThinkPHP 5.1的个人维护版本
 ThinkPHP 5.1（LTS版本） —— 12载初心，你值得信赖的PHP框架
 ===============
 
@@ -36,7 +37,7 @@ ThinkPHP5.1对底层架构做了进一步的改进，减少依赖，其主要特
 使用composer安装
 
 ~~~
-composer create-project topthink/think tp
+composer create-project shirne/think tp
 ~~~
 
 启动服务
@@ -54,7 +55,7 @@ http://localhost:8000
 
 更新框架
 ~~~
-composer update topthink/framework
+composer update shirne/thinkphp
 ~~~
 
 
